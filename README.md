@@ -1,11 +1,11 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/rafael-yokoyama/">
-      <img alt="Rafael Yokoyama" src="https://img.shields.io/badge/-RafaelYokoyama-000?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Filipe Costa" src="https://img.shields.io/badge/-Filip3C0-000?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
   <a aria-label="">
-   <img alt="Rafael Yokoyama" src="https://img.shields.io/badge/-RafaelYokoyama-000?style=flat&logo=github&logoColor=white" />
+   <img alt="Filipe Costa" src="https://img.shields.io/badge/-Filip3C0-000?style=flat&logo=github&logoColor=white" />
   </a>
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-000">
