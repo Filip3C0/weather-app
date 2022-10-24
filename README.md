@@ -1,6 +1,6 @@
 
 <p align="center">	
-   <a href="https://www.linkedin.com/in/rafael-yokoyama/">
+   <a href="https://www.linkedin.com/in/filipe-costa-nascimento/">
       <img alt="Filipe Costa" src="https://img.shields.io/badge/-Filip3C0-000?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
